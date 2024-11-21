@@ -26,5 +26,5 @@ This project is about creating the design of a split mechanical keyboard
 
 ## Documentation and link collection
 
-- [SOMETEXT](http://some.url)
+- [ZENGA](https://github.com/michelepagot/zenga)
 - [Jekyll and github pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
