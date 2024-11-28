@@ -8,10 +8,13 @@ carousels:
     - image: /assets/img/ergogen.png
     - image: /assets/img/matrix.png
     - image: /assets/img/routing.png
+    - image: /assets/img/switch_reversible_cluster.png
+    - image: /assets/img/switch_socket_draw_front.jpg
+    - image: /assets/img/nee_drill.jpg
     - image: /assets/img/desk_mess_pulse.jpg
 ---
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+{% include carousel.html height="50" unit="%" duration="60" number="1" %}
 
 # Opensuse hackweek 2024 - navigation log
 
