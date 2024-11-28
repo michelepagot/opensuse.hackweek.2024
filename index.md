@@ -12,6 +12,7 @@ carousels:
     - image: /assets/img/switch_socket_draw_front.jpg
     - image: /assets/img/nee_drill.jpg
     - image: /assets/img/desk_mess_pulse.jpg
+    - image: /assets/img/last_pcb.png
 ---
 
 {% include carousel.html height="50" unit="%" duration="60" number="1" %}
